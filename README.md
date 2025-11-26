@@ -30,8 +30,8 @@ I am continuously working on improving my abilities through hands-on projects, p
 ---
 
 # 📫 Contact
-📧 Email: *add your email here*  
-💻 GitHub: https://github.com/EbasaHulluka  
+📧 Email: *ebasahuluka1@gmail.com*  
+💻 GitHub: https://github.com/Ebasa-Hulluka  
 
 ---
 
