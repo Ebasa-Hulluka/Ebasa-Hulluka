@@ -41,7 +41,7 @@ I am continuously working on improving my abilities through hands-on projects, p
 ### 🚀 **Project One**
 Short description of something you're building or plan to build.  
 **Tech:** JavaScript, HTML, CSS  
-📁 **Repository:** https://github.com/EbasaHulluka/project1
+📁 **Repository:** https://github.com/Ebasa-Hulluka/project1
 
 ---
 
@@ -78,7 +78,7 @@ Python · Node.js (learning) · MongoDB · SQL · PHP · Java · Git · GitHub �
 ---
 
 # 📈 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EbasaHulluka&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ebasa-Hulluka&theme=react-dark)
 
 ---
 
