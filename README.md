@@ -19,13 +19,13 @@ I am continuously working on improving my abilities through hands-on projects, p
 # 📊 GitHub Stats
 
 ### **Ebasa’s GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbasaHulluka&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebasa-Hulluka&show_icons=true&theme=tokyonight)
 
 ### **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EbasaHulluka&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebasa-Hulluka&theme=tokyonight)
 
 ### **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbasaHulluka&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebasa-Hulluka&layout=compact&theme=tokyonight)
 
 ---
 
