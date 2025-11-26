@@ -1,16 +1,85 @@
-## Hi there 👋
+# **EBASA HULLUKA**
+### **FULL-STACK DEVELOPMENT STUDENT & FRONTEND DEVELOPER**
 
-<!--
-**Ebasa-Hulluka/Ebasa-Hulluka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**JavaScript · Python · HTML · CSS · Node.js (learning) · MongoDB · SQL · Git · GitHub · VS Code · PHP · Java · Bootstrap · React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+I am a full-stack development student focused on understanding how modern web applications work from frontend to backend.  
+I enjoy building projects that help me practice real development skills, including working with JavaScript, Python, databases, and backend logic.
+
+I am continuously working on improving my abilities through hands-on projects, practicing CRUD operations, and understanding how full-stack systems operate. My goal is to become a strong full-stack developer capable of building real, scalable applications.
+
+---
+
+# 📊 GitHub Stats
+
+### **Ebasa’s GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbasaHulluka&show_icons=true&theme=tokyonight)
+
+### **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EbasaHulluka&theme=tokyonight)
+
+### **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbasaHulluka&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Contact
+📧 Email: *add your email here*  
+💻 GitHub: https://github.com/EbasaHulluka  
+
+---
+
+# 🌟 Featured Projects
+*(Add your real projects here when ready — these are placeholders)*
+
+### 🚀 **Project One**
+Short description of something you're building or plan to build.  
+**Tech:** JavaScript, HTML, CSS  
+📁 **Repository:** https://github.com/EbasaHulluka/project1
+
+---
+
+### ⚡ **Project Two**
+Another practice or learning project.  
+**Tech:** Python, MongoDB  
+📁 **Repository:** https://github.com/EbasaHulluka/project2
+
+---
+
+### 🎯 **Project Three**
+A full-stack or backend-focused project.  
+**Tech:** Node.js, JavaScript, SQL  
+📁 **Repository:** https://github.com/EbasaHulluka/project3
+
+---
+
+# 🧠 Technical Skills
+
+### **Frontend**
+HTML · CSS · JavaScript · Bootstrap · React
+
+### **Backend & Tools**
+Python · Node.js (learning) · MongoDB · SQL · PHP · Java · Git · GitHub · VS Code  
+
+---
+
+# 📚 Currently Learning
+🎯 Full-stack development fundamentals  
+🏗️ Backend logic using JavaScript and Python  
+🔗 Database operations with MongoDB & SQL  
+🎨 Improving frontend structure (HTML/CSS/JS)
+
+---
+
+# 📈 GitHub Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EbasaHulluka&theme=react-dark)
+
+---
+
+# 📊 Weekly Development Breakdown
