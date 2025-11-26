@@ -75,11 +75,4 @@ Python · Node.js (learning) · MongoDB · SQL · PHP · Java · Git · GitHub �
 🔗 Database operations with MongoDB & SQL  
 🎨 Improving frontend structure (HTML/CSS/JS)
 
----
-
-# 📈 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ebasa-Hulluka&theme=react-dark)
-
----
-
 # 📊 Weekly Development Breakdown
