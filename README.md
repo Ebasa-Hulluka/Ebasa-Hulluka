@@ -2,7 +2,7 @@
 ### **FULL-STACK DEVELOPMENT STUDENT & FRONTEND DEVELOPER**
 
 ---
-# 👋 Hello, I'm Ebisa Berhanu
+# 👋 Hello, I'm Ebasa Hulluka 
 
 **Fullstack Developer | MERN Stack | Tech Enthusiast**
 
