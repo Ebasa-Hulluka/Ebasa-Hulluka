@@ -2,6 +2,16 @@
 ### **FULL-STACK DEVELOPMENT STUDENT & FRONTEND DEVELOPER**
 
 ---
+# 👋 Hello, I'm Ebisa Berhanu
+
+**Fullstack Developer | MERN Stack | Tech Enthusiast**
+
+### Building scalable web applicatio
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k3aGJ0MG0waGpvbGk1bm55ZXl5MmZ0Z21icWVhc3R3bnVmY2NzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aCPbOLuGYl1LRqE/giphy.gif" width="500"/>
+</p>
+
 
 ## 🚀 Tech Stack
 **JavaScript · Python · HTML · CSS · Node.js (learning) · MongoDB · SQL · Git · GitHub · VS Code · PHP · Java · Bootstrap · React**
