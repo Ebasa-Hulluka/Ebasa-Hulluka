@@ -1,5 +1,4 @@
- 
-## 👋 About Me
+ ## 👋 About Me
 I am a full-stack development student focused on understanding how modern web applications work from frontend to backend.  
 I enjoy building projects that help me practice real development skills, including working with JavaScript, Python, databases, and backend logic.
 
