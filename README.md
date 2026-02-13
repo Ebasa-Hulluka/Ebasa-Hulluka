@@ -13,12 +13,7 @@ A passionate full-stack development student on a journey to master the art of bu
 ---
 
 # 🌟 Featured Projects
-*(Add your real projects here when ready — these are placeholders)*
-
-### 🚀 **Project One**
-Short description of something you're building or plan to build.  
-**Tech:** JavaScript, HTML, CSS  
-📁 **Repository:** https://github.com/Ebasa-Hulluka/project1
+*(Add your real projects here when ready — these are placeholders)
 
 ---
 
