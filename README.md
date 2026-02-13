@@ -10,9 +10,6 @@ A passionate full-stack development student on a journey to master the art of bu
 📧 Email: *ebasahuluka1@gmail.com*  
 💻 GitHub: https://github.com/Ebasa-Hulluka  
 
-
----
-
 # 🧠 Technical Skills
 
 ### **Frontend**
