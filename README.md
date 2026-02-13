@@ -46,14 +46,3 @@ A passionate **full-stack development student** on a journey to master the art o
 🎨 Improving frontend structure (HTML/CSS/JS)
 
 ---
-
-## 📊 GitHub Stats
-
-### **Ebasa's GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebasa-Hulluka&show_icons=true&theme=tokyonight)
-
-### **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebasa-Hulluka&theme=tokyonight)
-
-### **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebasa-Hulluka&layout=compact&theme=tokyonight)
