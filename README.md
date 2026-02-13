@@ -5,8 +5,8 @@ A passionate full-stack development student on a journey to master the art of bu
 🌱 Building projects with JavaScript, Python, and various databases
 💡 Focused on understanding CRUD operations, system architecture, and scalable solutions
 🎯 Goal: Become a well-rounded full-stack developer who can turn ideas into functional, user-friendly applications
- 
-
+    
+Contact Me 
 📧 ebasahuluka1@gmail.com
 💻 github.com/Ebasa-Hulluka
 📱 @ebo1234e
