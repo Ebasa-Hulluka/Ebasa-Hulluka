@@ -10,12 +10,6 @@ A passionate full-stack development student on a journey to master the art of bu
 📧 Email: *ebasahuluka1@gmail.com*  
 💻 GitHub: https://github.com/Ebasa-Hulluka  
 
----
-
-d
-
----
-
 ### ⚡ **Project Two**
 Another practice or learning project.  
 **Tech:** Python, MongoDB  
