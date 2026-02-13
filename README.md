@@ -10,12 +10,6 @@ A passionate full-stack development student on a journey to master the art of bu
 📧 Email: *ebasahuluka1@gmail.com*  
 💻 GitHub: https://github.com/Ebasa-Hulluka  
 
----
-
-### 🎯 **Project Three**
-A full-stack or backend-focused project.  
-**Tech:** Node.js, JavaScript, SQL  
-📁 **Repository:** https://github.com/EbasaHulluka/project3
 
 ---
 
