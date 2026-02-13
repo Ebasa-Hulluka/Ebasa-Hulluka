@@ -12,8 +12,7 @@ A passionate full-stack development student on a journey to master the art of bu
 
 ---
 
-# 🌟 Featured Projects
-*(Add your real projects here when ready — these are placeholders)
+d
 
 ---
 
