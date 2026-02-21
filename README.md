@@ -11,7 +11,6 @@ A passionate **full-stack development student** on a journey to master the art o
 
 ## 📬 Contact Me
 
-
 📧 **Email:** [ebasahuluka1@gmail.com](mailto:ebasahuluka1@gmail.com)  
 💻 **GitHub:** [github.com/Ebasa-Hulluka](https://github.com/Ebasa-Hulluka)  
 📱 **Telegram:** [@ebo1234e](https://t.me/ebo1234e)
