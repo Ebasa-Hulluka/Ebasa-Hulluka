@@ -39,6 +39,7 @@ A passionate **full-stack development student** on a journey to master the art o
 ---
 
 ## 📚 Currently Learning
+
 🎯 Full-stack development fundamentals  
 🏗️ Backend logic using JavaScript and Python  
 🔗 Database operations with MongoDB & SQL  
